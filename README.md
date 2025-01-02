@@ -20,4 +20,6 @@ Express.js: Web framework for Node.js.
 
 Database: MongoDB
 
+Cloudinary: Cloud-based storage for media files.
+
 HTML/CSS/JavaScript: Frontend technologies.
