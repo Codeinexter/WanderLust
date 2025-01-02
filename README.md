@@ -1,6 +1,6 @@
 # Listings Website
 
-This repository contains the code for a website built using Node.js, Express.js, MongoDB for managing and displaying listings, cloud-based storage using Cloudinary, and user authentication. The application allows users to browse, add, update, and delete listings through a user-friendly interface.
+This repository contains the code for a website built using Node.js, Express.js, MongoDB for managing and displaying listings, cloud-based storage using Cloudinary, user authentication and modular routing. The application allows users to browse, add, update, and delete listings through a user-friendly interface.
 
 # Features
 
@@ -13,6 +13,8 @@ Backend Framework: Built with Node.js and Express.js.
 Database Integration: Fully integrated with a database to store and manage listing data.
 
 Cloud Storage: Images and media are stored using Cloudinary.
+
+Modular Routing: Organized routes for better maintainability and scalability.
 
 Responsive Design: The frontend is responsive and works across devices.
 
